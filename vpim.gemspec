@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://vpim.rubyforge.org"
   s.rubyforge_project = "vpim"
   s.name              = "vpim"
-  s.version           = `ruby stamp.rb`
+  s.version           = '11.11.24'
   s.summary           = "iCalendar and vCard support for ruby"
   s.description       = <<'---'
 This is a pure-ruby library for decoding and encoding vCard and iCalendar data
